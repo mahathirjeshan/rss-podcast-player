@@ -13,9 +13,6 @@ or
 `npm run ios`
 
 ## Funcionality
-<img src="https://user-images.githubusercontent.com/99638905/167955256-5ce12403-aea2-43a8-ba1a-b78aa0cae288.gif" width="400"  />
-
-<img src="https://user-images.githubusercontent.com/99638905/167955267-c52d38ac-8967-4e32-95ac-b605b1e3f2cd.gif" width="400"  />
 
 ## Technology 
 - [react-native-track-player](https://react-native-track-player.js.org/)
